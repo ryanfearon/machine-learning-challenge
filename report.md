@@ -1,0 +1,1 @@
+Both the Gridsearch and the SVM models came back with scores of .88, the Gridsearch only being marginally better. Both are pretty scores and could be considered accurate enough to predict new exoplanets. To better the score we could look at additional different testing methods or including more parameters or adjusting the parameters perhaps.
